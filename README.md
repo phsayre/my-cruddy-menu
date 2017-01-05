@@ -7,7 +7,9 @@ The menu runs from a Bash script file and has MySQL hardcoded in to Create, Read
 
 ## Install
 1) Transfer both files (menu_mysql_sayre.sh and dorm_tables_sayre.sql) to a Linux box, I used Ubuntu on a VM
+
 2) Run the sql file to create the database, dummy data will fill into the tables automatically
+
 3) Run the menu and enjoy
 
 ## Contact
